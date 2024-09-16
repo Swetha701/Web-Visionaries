@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Web-Visionaries/static/css/main.f855e6bc.css",
+    "main.js": "/Web-Visionaries/static/js/main.8a680355.js",
+    "static/js/453.046d6f43.chunk.js": "/Web-Visionaries/static/js/453.046d6f43.chunk.js",
+    "index.html": "/Web-Visionaries/index.html",
+    "main.f855e6bc.css.map": "/Web-Visionaries/static/css/main.f855e6bc.css.map",
+    "main.8a680355.js.map": "/Web-Visionaries/static/js/main.8a680355.js.map",
+    "453.046d6f43.chunk.js.map": "/Web-Visionaries/static/js/453.046d6f43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8a680355.js"
+  ]
+}
